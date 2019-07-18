@@ -258,6 +258,10 @@ nav a:hover {
   color: blue;
 }
 
+.profile-img {
+  max-width: 1150px;
+}
+
 .col {
     float: right;
     width: 33%;
